@@ -1,5 +1,5 @@
 # my--notes
-- 👋 Hi, I’m @engTasneemmaq
+- 👋 Hi, I’m eng Tasneem maqableh
 - 👀 I’m interested in software
 - 🌱 I’m currently learning Javascript 
 
@@ -18,5 +18,6 @@ Running Away From Rewriting
 
 
 [mark down repo]{https://github.com/engTasneemmaq/my--notes.git}
+
 
 
